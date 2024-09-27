@@ -6,8 +6,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Timmi-Python-blue?style=plastic&logo=python&color=blue)
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timmi116a&show_icons=true&theme=transparent)
 
 
 
